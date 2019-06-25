@@ -13,8 +13,8 @@
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "@material-ui/icons": "^3.0.2",
-    "bf-moqui-frontend-react": "github:Brainfood-com/bf-moqui-frontend-react#0.2.0",
-    "bf-party-frontend-react": "github:Brainfood-com/bf-party-frontend-react#0.2.0",
+    "bf-moqui-frontend-react": "github:Brainfood-com/bf-moqui-frontend-react#0.2.1",
+    "bf-party-frontend-react": "github:Brainfood-com/bf-party-frontend-react#0.2.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.6"
   }
