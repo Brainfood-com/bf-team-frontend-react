@@ -1,6 +1,6 @@
 {
   "name": "bf-team-frontend-react",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -13,8 +13,8 @@
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "@material-ui/icons": "^3.0.2",
-    "bf-moqui-frontend-react": "github:Brainfood-com/bf-moqui-frontend-react#0.2.1",
-    "bf-party-frontend-react": "github:Brainfood-com/bf-party-frontend-react#0.2.1",
+    "bf-moqui-frontend-react": "github:Brainfood-com/bf-moqui-frontend-react#semver:^0",
+    "bf-party-frontend-react": "github:Brainfood-com/bf-party-frontend-react#semver:^0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6"
   }
